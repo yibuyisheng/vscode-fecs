@@ -1,0 +1,25 @@
+{
+  "name": "fecs-client",
+  "displayName": "fecs-client",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "yibuyisheng",
+  "engines": {
+    "vscode": "^0.10.1"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onLanguage:javascript"
+  ],
+  "main": "./extension",
+  "devDependencies": {
+    "vscode": "0.10.x"
+  },
+  "dependencies": {
+    "fecs": "^0.4.19",
+    "vscode-languageclient": "^1.1.1",
+    "vscode-languageserver": "^1.1.1"
+  }
+}
