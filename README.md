@@ -6,10 +6,11 @@ You can use it to check whether your JavaScript code is normative or not.
 
 This extension is based on `[fecs](https://github.com/ecomfe/fecs)`.
 
-# installation
+# Installation
 
+* Go to [the releases page](https://github.com/yibuyisheng/vscode-fecs/releases), and download the `*.vsix` file.
+* Read [Microsoft's document](https://code.visualstudio.com/docs/extensions/install-extension) to know about how to install with the `*.visx` file.
 
-
-# after installation
+# After Installation
 
 ** Just Enjoy! **
