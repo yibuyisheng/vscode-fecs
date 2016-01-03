@@ -4,7 +4,7 @@ It is a [vscode](https://code.visualstudio.com/) extension.
 
 You can use it to check whether your JavaScript code is normative or not.
 
-This extension is based on `[fecs](https://github.com/ecomfe/fecs)`.
+This extension is based on [`fecs`](https://github.com/ecomfe/fecs).
 
 # Installation
 
@@ -13,4 +13,4 @@ This extension is based on `[fecs](https://github.com/ecomfe/fecs)`.
 
 # After Installation
 
-** Just Enjoy! **
+**Just Enjoy!**
