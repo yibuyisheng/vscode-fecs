@@ -1,6 +1,6 @@
 {
-  "name": "fecs-client",
-  "displayName": "fecs-client",
+  "name": "fecs",
+  "displayName": "fecs",
   "description": "",
   "version": "0.0.1",
   "publisher": "yibuyisheng",
@@ -18,8 +18,6 @@
     "vscode": "0.10.x"
   },
   "dependencies": {
-    "fecs": "^0.4.19",
-    "vscode-languageclient": "^1.1.1",
-    "vscode-languageserver": "^1.1.1"
+    "fecs": "^0.4.19"
   }
 }

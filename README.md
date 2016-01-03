@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "fecs-client" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# What is this?
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+It is a [vscode](https://code.visualstudio.com/) extension.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+You can use it to check whether your JavaScript code is normative or not.
 
-** Enjoy!**
+This extension is based on `[fecs](https://github.com/ecomfe/fecs)`.
+
+# installation
+
+
+
+# after installation
+
+** Just Enjoy! **
